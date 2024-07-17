@@ -2,3 +2,14 @@
 __pycache__
 .pytest_cache
 .idea/
+*.py[cod]
+*.pyo
+.env
+.venv/
+env/
+venv/
+myenv/  # Entorno virtual
+*.egg-info/
+.idea/
+.vscode/
+*.log
